@@ -1,0 +1,10 @@
+DOCTYPE -->
+
+DOCTYPE basically is used to define the types of the document like html.
+
+<!DOCTYPE html>
+
+the above line is used always on the top of the page and its define that
+
+Version 5
+Type of the document is html

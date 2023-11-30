@@ -1,0 +1,18 @@
+
+tag :--
+    Tag basically basic pillar of the html page like <p>,<a/> are the tags.
+  there are various categories of the tag  like self closing tag, starting tag, closing tag etc.
+
+
+  Element:--
+        element is the collection of tags 
+
+        Element may have one tag or more than one tag.
+        If element have ore than one tag than element divide into three categories 
+
+        <p> This the para content </p>
+
+        <p> --> starting tag 
+        <p/> --> closing tag
+
+        and between the starting tag and closing tag have some content
